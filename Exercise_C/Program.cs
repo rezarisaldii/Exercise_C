@@ -9,7 +9,7 @@ namespace Exercise_C
     class Program
     {
         // deklarasi array int dengan ukuran 1155
-        private int[] reza = new int[1155];
+        private int[] reza = new int[1155]; 
 
         // deklarasi variabel int untuk menyimpan banyaknya data pada array
         private int n;
